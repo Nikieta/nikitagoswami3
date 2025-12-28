@@ -23,7 +23,7 @@ Bachelor of Technology in Computer Engineering
 - Applying **LoRA-based parameter-efficient fine-tuning** to improve model robustness
 
 ### Frontend Web Developer Intern  
-**Biofield Power Ltd, IIT Ropar, India** | Aug 2024 – May 2025  
+**Biofield Power Ltd, Indian Institute of Technology, Ropar, India** | Aug 2024 – May 2025  
 - Built a production-grade web application using **Next.js and Tailwind CSS**
 - Designed reusable, multilingual UI components
 - Translated Figma designs into pixel-perfect, production-ready code
@@ -35,13 +35,15 @@ Bachelor of Technology in Computer Engineering
 ### Generative AI-Based Framework for Vulnerability Detection and Cybersecurity Tutoring
 - Integrated vulnerability detection, explainable remediation tutoring, and sandboxed execution
 - Tools: NMap, OpenVAS, Nessus, OWASP ZAP, Docker, Gemini, Claude
-- **Presented at:** ICTCS 2025  
+- **Presented at:** 10th International Conference on Information and Communication Technology for Competitive Strategies (ICTCS-2025
+- (PaperID: 1452).
 - **Accepted for publication:** Springer LNCS
 
 ### High-Recall Hybrid PII Detection & Privacy Risk Assessment
 - Hybrid system combining weighted regex engines and spaCy-based NER ensembles
 - Achieved **0.8324 recall** for compliance-critical applications
-- **Accepted at:** ACDSA 2026
+- **Accepted at:** The 3rd International Conference on Artificial Intelligence, Computer, Data Sciences and Applications” (ACDSA 2026)
+- (Paper ID: 1611).
 
 ### Intelligent College FAQ Chatbot
 - Semantic retrieval pipeline using SBERT, MPNet, and RoBERTa
@@ -78,8 +80,6 @@ Bachelor of Technology in Computer Engineering
 - Participant — Smart India Hackathon 2024
 
 ---
-
-## Contact
 
 ## Contact
 **Email:** [nikieta09@gmail.com](mailto:nikieta09@gmail.com)  
