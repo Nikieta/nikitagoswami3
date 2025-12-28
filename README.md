@@ -35,7 +35,7 @@ Bachelor of Technology in Computer Engineering
 ### Generative AI-Based Framework for Vulnerability Detection and Cybersecurity Tutoring
 - Integrated vulnerability detection, explainable remediation tutoring, and sandboxed execution
 - Tools: NMap, OpenVAS, Nessus, OWASP ZAP, Docker, Gemini, Claude
-- **Presented at:** 10th International Conference on Information and Communication Technology for Competitive Strategies (ICTCS-2025
+- **Presented at:** 10th International Conference on Information and Communication Technology for Competitive Strategies (ICTCS-2025)
 - (PaperID: 1452).
 - **Accepted for publication:** Springer LNCS
 
