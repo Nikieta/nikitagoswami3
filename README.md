@@ -48,7 +48,7 @@ Bachelor of Technology in Computer Engineering
 - Semantic retrieval pipeline using SBERT, MPNet, and RoBERTa
 - FAISS-based benchmarking and evaluation
 
-### “Wild Vision” — Animal Detection & Classification
+### “Wild Vision” : Animal Detection & Classification
 - Computer vision system using HoGs for feature extraction and SVM for classification
 - Multi-species wildlife detection from images
 
