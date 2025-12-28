@@ -80,5 +80,8 @@ Bachelor of Technology in Computer Engineering
 ---
 
 ## Contact
-- **Email:** nikieta09@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/nikitagoswami3/
+
+## Contact
+**Email:** [nikieta09@gmail.com](mailto:nikieta09@gmail.com)  
+**LinkedIn:** [linkedin.com/in/nikitagoswami3](https://www.linkedin.com/in/nikitagoswami3/)
+
