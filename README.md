@@ -2,7 +2,7 @@
 
 This repository contains the professional resume of **Nikita Goswami**, a final-year B.Tech Computer Engineering student with strong research and industry experience in **Artificial Intelligence, Machine Learning, Data Science, and Security-focused AI systems**.
 
-**Resume:** [Download PDF](./Nikita_Goswami_Resume.pdf)
+**Resume:** [Download PDF](./Nikita_Goswami-Resume.pdf)
 
 
 ---
