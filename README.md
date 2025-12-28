@@ -35,15 +35,14 @@ Bachelor of Technology in Computer Engineering
 ### Generative AI-Based Framework for Vulnerability Detection and Cybersecurity Tutoring
 - Integrated vulnerability detection, explainable remediation tutoring, and sandboxed execution
 - Tools: NMap, OpenVAS, Nessus, OWASP ZAP, Docker, Gemini, Claude
-- **Presented at:** 10th International Conference on Information and Communication Technology for Competitive Strategies (ICTCS-2025)
-- (PaperID: 1452).
+- **Presented at:** 10th International Conference on Information and Communication Technology for Competitive Strategies (ICTCS-2025)(PaperID: 1452)
 - **Accepted for publication:** Springer LNCS
 
 ### High-Recall Hybrid PII Detection & Privacy Risk Assessment
 - Hybrid system combining weighted regex engines and spaCy-based NER ensembles
 - Achieved **0.8324 recall** for compliance-critical applications
 - **Accepted at:** The 3rd International Conference on Artificial Intelligence, Computer, Data Sciences and Applications” (ACDSA 2026)
-- (Paper ID: 1611).
+(Paper ID: 1611)
 
 ### Intelligent College FAQ Chatbot
 - Semantic retrieval pipeline using SBERT, MPNet, and RoBERTa
