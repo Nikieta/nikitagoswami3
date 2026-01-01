@@ -1,6 +1,6 @@
 I am a final-year B.Tech Computer Engineering student with research and industry experience in Artificial Intelligence, Machine Learning, Data Science, and security-centric AI systems. My work spans multimodal learning, deepfake detection, privacy-preserving NLP, and applied AI system development, with a strong emphasis on robustness, explainability, and real-world deployment.
 
-**Resume:** [View Resume](https://drive.google.com/file/d/1izksOHA4GVysmg29v1dCTHF_r446EUM8/view?usp=sharing)
+**Resume:** [View Resume](https://drive.google.com/file/d/1_OKalCYadn8plXIpT7siZ-U88AlidfHE/view?usp=sharing)
 
 
 ---
@@ -8,7 +8,7 @@ I am a final-year B.Tech Computer Engineering student with research and industry
 ## Education
 **NMIMS University, Mumbai, India**  
 Bachelor of Technology in Computer Engineering  
-**CGPA:** 3.67 / 4.00  
+**CGPA:** 3.69 / 4.00  
 **Expected Graduation:** August 2026
 
 ---
