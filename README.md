@@ -16,14 +16,14 @@ Bachelor of Technology in Computer Engineering
 ## Professional Experience
 
 ### AI/ML Research Intern  
-**Monash University, Melbourne, Australia** | May 2025 – Present  
+**Monash University, Melbourne, Australia** | May 2025 - Present  
 - Research on multimodal large language models for **audio deepfake detection and explainability**
 - Evaluated zero-shot adaptability of **Audio Flamingo**
-- Curated and annotated 3,000+ spoof and bonafide audio samples
-- Applying **LoRA-based parameter-efficient fine-tuning** to improve model robustness
+- Curated and annotated 3,000+ spoof and bona fide audio samples
+- Applying **LoRA-based fine-tuning** to improve model robustness
 
 ### Frontend Web Developer Intern  
-**Biofield Power Ltd, Indian Institute of Technology, Ropar, India** | Aug 2024 – May 2025  
+**Biofield Power Ltd, Indian Institute of Technology, Ropar, India** | Aug 2024 - May 2025  
 - Built a production-grade web application using **Next.js and Tailwind CSS**
 - Designed reusable, multilingual UI components
 - Translated Figma designs into pixel-perfect, production-ready code
@@ -33,7 +33,7 @@ Bachelor of Technology in Computer Engineering
 ## Research Projects & Publications
 
 ### Generative AI-Based Framework for Vulnerability Detection and Cybersecurity Tutoring
-- Integrated vulnerability detection, explainable remediation tutoring, and sandboxed execution
+- Integrated vulnerability detection, explainable remediation tutoring, and sandboxed execution using Docker
 - Tools: NMap, OpenVAS, Nessus, OWASP ZAP, Docker, Gemini, Claude
 - **Presented at:** 10th International Conference on Information and Communication Technology for Competitive Strategies (ICTCS-2025)(PaperID: 1452)
 - **Accepted for publication:** Springer LNCS
@@ -65,7 +65,7 @@ Bachelor of Technology in Computer Engineering
 ---
 
 ## Certifications
-- Machine Learning Specialization — DeepLearning.AI & Stanford University
+- Machine Learning Specialization - DeepLearning.AI & Stanford University
 - AWS Cloud Architecting Training
 - Microsoft Azure Fundamentals
 - Postman API Fundamentals Student Expert
@@ -73,10 +73,10 @@ Bachelor of Technology in Computer Engineering
 ---
 
 ## Achievements & Activities
-- **4th place (India)** — Harvard Health Systems Innovation Lab Hackathon 2025
-- Technical Executive — ACM Student Chapter
-- Volunteer — Aarna Foundation NGO
-- Participant — Smart India Hackathon 2024
+- **4th place (India)** - Harvard Health Systems Innovation Lab Hackathon 2025
+- Technical Executive - ACM Student Chapter
+- Volunteer - Aarna Foundation NGO
+- Participant - Smart India Hackathon 2024
 
 ---
 
